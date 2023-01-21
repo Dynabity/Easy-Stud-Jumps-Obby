@@ -2,3 +2,4 @@ if game.PlaceId == 11166344460 then -- Easy Stud Jumps Obby
         loadstring(game:HttpGet("https://raw.githubusercontent.com/Dynabity/Easy-Stud-Jumps-Obby/main/Easy%20Stud%20Jumps%20Obby",true))()
 else -- Kick
         game.Players.LocalPlayer:Kick("No supported game found.\n\nPlease join a supported game.")
+end
